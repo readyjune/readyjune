@@ -1,5 +1,6 @@
  ### ✋ Hi there. I'm Jinwoo completing Bachelor of Computing - Software Engineering at Curtin University in November.
 
+![image description](https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk)
 
 <!-- Bullet list -->
 
