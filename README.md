@@ -12,7 +12,7 @@ ___
 ___
 <!-- Bullet list -->
 
-I'm a Full Stack Developer in Australia
+I'm studying to be a Full Stack Developer in Australia
 * 🔭 I’m currently learning C# and .NET for building web applications.
 * ⚡ Fun fact: Prior to embarking on my computer science studies, I served in the Army.
 * 📫 How to reach me : Click [here](https://www.linkedin.com/in/jinwookimcurtin/) or email: rlawlsdn3314@gmail.com
