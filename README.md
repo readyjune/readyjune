@@ -2,6 +2,8 @@
 
 
 # ✋ Hi there! I'm Jinwoo, a passionate Software Engineering student at Curtin University, set to graduate in November.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinwookimcurtin/)]([https://www.linkedin.com/in/seong-yun-byeon-8183a8113/](https://www.linkedin.com/in/jinwookimcurtin/))
 ___
 ![Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhmc2h5eTJveW5jNTI4aTIwOWlrenMydGt6dmJ2ZHUwZHc4aWo5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
 ___
@@ -10,5 +12,5 @@ ___
 I'm a Full Stack Developer in Australia
 * 🔭 I’m currently learning C# and .NET for building web applications.
 * ⚡ Fun fact: Prior to embarking on my computer science studies, I served in the Army.
-* ➡📫 How to reach me : Click [here] or email: rlawlsdn3314@gmail.com
+* ➡📫 How to reach me : Click [here](https://www.linkedin.com/in/jinwookimcurtin/) or email: rlawlsdn3314@gmail.com
 
