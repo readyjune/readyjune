@@ -12,7 +12,7 @@ ___
 I'm a Full Stack Developer in Australia
 * 🔭 I’m currently learning C# and .NET for building web applications.
 * ⚡ Fun fact: Prior to embarking on my computer science studies, I served in the Army.
-* ➡📫 How to reach me : Click [here](https://www.linkedin.com/in/jinwookimcurtin/) or email: rlawlsdn3314@gmail.com
+* 📫 How to reach me : Click [here](https://www.linkedin.com/in/jinwookimcurtin/) or email: rlawlsdn3314@gmail.com
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/mysql-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
