@@ -14,3 +14,9 @@ I'm a Full Stack Developer in Australia
 * ⚡ Fun fact: Prior to embarking on my computer science studies, I served in the Army.
 * ➡📫 How to reach me : Click [here](https://www.linkedin.com/in/jinwookimcurtin/) or email: rlawlsdn3314@gmail.com
 
+# Python
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+# MySQL
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+# Github
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
