@@ -18,8 +18,8 @@ I'm studying to be a Full Stack Developer in Australia
 * ⚡ Fun fact: Prior to embarking on my computer science studies, I served in the Army.
 * 📫 How to reach me : Click [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jinwookimcurtin/) or email: rlawlsdn3314@gmail.com
 *  🌏 I have a passion for exploring diverse interests outside of computing, including hobbies such as photography, videography
-  - Indigenous People Interview : https://youtu.be/cB4xwVZdD7E
-  - From Police Officer to Software Engineer: My Journey of Transformation and Pursuit of Passion : https://youtu.be/cB4xwVZdD7E
+  * Indigenous People Interview : https://youtu.be/cB4xwVZdD7E
+  * From Police Officer to Software Engineer: My Journey of Transformation and Pursuit of Passion : https://youtu.be/cB4xwVZdD7E
 
 
 
