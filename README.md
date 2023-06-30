@@ -12,7 +12,7 @@ ___
 ___
 <!-- Bullet list -->
 ## 👨‍💻 Aboud Me
-I'm studying to be a Full Stack Developer in Australia
+I'm a Full Stack Developer in Australia
 * 🔭 I’m currently learning C# and .NET for building web applications.
 * 🍀 I'm currently working as a Research Assistant at Optus 5G Lab in Curtin University.
 * ⚡ Fun fact: Prior to embarking on my computer science studies, I served in the Army.
