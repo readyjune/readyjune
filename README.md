@@ -13,7 +13,7 @@ ___
 <!-- Bullet list -->
 ## 👨‍💻 Aboud Me
 I'm a Full Stack Developer in Australia
-* 🔭 I’m currently learning C# and .NET for building web applications.
+* 🔭 I’m currently learning Machine Learning as a side project.
 * 🍀 I'm currently working as a Research Assistant at Optus 5G Lab in Curtin University.
 * ⚡ Fun fact: Prior to embarking on my computer science studies, I served in the Army.
 * 📫 How to reach me : Click [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jinwookimcurtin/) or email: rlawlsdn3314@gmail.com
