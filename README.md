@@ -13,7 +13,8 @@ ___
 <!-- Bullet list -->
 ## 👨‍💻 Aboud Me
 I'm a Full Stack Developer in Australia
-* 🍀 I'm currently working as a App Developer at Omni Biotech.
+* 🍀 I'm currently looking for developer position.
+* 🌏 Here is my current portolio : https://3d-jinwoo-portfolio.netlify.app/
 * ⚡ Fun fact: Prior to embarking on my computer science studies, I served in the Army.
 * 📫 How to reach me : Click [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jinwookimcurtin/) or email: rlawlsdn3314@gmail.com
 *  🌏 I have a passion for exploring diverse interests outside of computing, including hobbies such as photography, videography
