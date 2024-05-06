@@ -1,7 +1,7 @@
 
 
 
-# ✋ Hi there! I'm Jinwoo, a passionate Software Engineering Graduate at Curtin University, graduated November 2023.
+# ✋ Hi there! I'm Jinwoo, a passionate Software Engineer / Web&App developer.
 
 
 ___
